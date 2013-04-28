@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 COINS = [9, 6, 4, 1]
 
 def memoize(func):
